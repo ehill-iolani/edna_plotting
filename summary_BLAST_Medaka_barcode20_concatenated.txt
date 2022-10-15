@@ -1,0 +1,233 @@
+BLAST_out_Medaka_clusters
+10	103	
+10	173		98.507	201	0	2	1.40e	96	351	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+10	2929		98.010	201	3	1	1.69e	95	348	Thunnus	alalunga	voucher	TA02-2314	mitochondrion,	complete	genome	gb|JN086151.1|
+10	364	
+10	852		96.818	220	5	2	5.17e	101	366	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+10	865		99.029	206	0	2	1.47e	101	368	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+107	607		100.000	205	0	0	6.75e	105	379	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+11	1264		100.000	201	0	0	1.02e	102	372	Thunnus	alalunga	voucher	TA02-2314	mitochondrion,	complete	genome	gb|JN086151.1|
+11	1578		97.297	222	3	2	3.44e	103	374	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+11	2069		99.524	210	0	1	1.87e	105	381	Thunnus	alalunga	voucher	TA02-2314	mitochondrion,	complete	genome	gb|JN086151.1|
+11	336	
+11	416	
+11	4269		96.172	209	4	3	1.06e	92	339	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+11	502		97.549	204	1	3	6.36e	95	346	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+11	650		96.098	205	4	3	1.71e	90	331	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+11	878		99.517	207	0	1	8.02e	104	375	Xiphias	gladius	mitochondrion,	complete	genome	ref|NC_012677.1|
+12	10	
+12	1087		98.174	219	3	1	1.88e	105	381	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+12	1111		98.611	216	3	0	5.06e	106	383	Coryphaena	hippurus	mitochondrion,	partial	genome	gb|KF719178.1|
+12	695	
+12	801		96.552	203	3	2	4.79e	91	333	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+12	889		98.995	199	0	2	1.02e	97	355	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+120	589		97.183	213	5	1	8.39e	99	359	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+13	108		98.630	219	3	0	1.39e	107	388	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+13	318	
+13	4198		98.515	202	2	1	1.02e	97	355	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+13	471		96.804	219	5	1	2.55e	100	364	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+13	718		96.347	219	7	1	8.61e	99	359	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+13	815	
+1324	580		98.544	206	3	0	1.73e	100	364	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+14	1784		96.847	222	4	2	1.46e	101	368	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+14	408	
+14	425		80.841	214	38	3	1.97e	40	165	Lethenteron	reissneri	mitochondrion,	complete	genome	gb|KC353466.1|
+14	486		98.438	192	1	2	3.46e	92	337	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+14	491		98.174	219	3	1	1.88e	105	381	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+149	1097		98.174	219	4	0	5.14e	106	383	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+15	2167		96.818	220	4	2	1.85e	100	364	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+15	2376		97.087	206	6	0	1.74e	95	348	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+15	441	
+15	606	
+16	1011		100.000	191	0	0	3.80e	97	353	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+16	1143		97.717	219	4	1	8.55e	104	375	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+16	619		96.602	206	4	2	1.07e	92	339	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+16	847		98.500	200	2	1	1.88e	96	351	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+16	862		97.717	219	5	0	2.39e	104	377	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+17	1160		98.585	212	2	1	3.11e	103	374	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+17	1551		97.727	220	3	2	2.39e	104	377	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+17	1929		100.000	200	0	0	3.96e	102	370	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+17	2008		95.853	217	5	3	1.86e	95	348	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+17	271		80.786	229	41	3	1.02e	43	176	Lethenteron	reissneri	mitochondrion,	complete	genome	gb|KC353466.1|
+17	315	
+17	4057		99.474	190	0	1	2.24e	94	344	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+17	535		97.030	202	4	2	1.02e	92	339	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+17	658		96.847	222	3	4	1.45e	101	368	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+17	685		98.515	202	3	0	2.86e	98	357	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+17	87		95.455	220	7	3	1.86e	95	348	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+18	1619	
+18	851		96.237	186	6	1	3.40e	82	303	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+184	1323		98.182	220	3	1	5.16e	106	383	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+185	622		98.182	220	3	1	5.16e	106	383	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+19	1859		98.492	199	1	2	4.89e	96	350	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+19	531	
+20	1441		98.980	196	2	0	1.43e	96	351	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+20	1831		96.380	221	5	3	2.42e	99	361	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+20	2135		98.131	214	3	1	1.09e	102	372	Thunnus	alalunga	voucher	TA02-2314	mitochondrion,	complete	genome	gb|JN086151.1|
+20	519		97.000	200	4	2	1.35e	91	335	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+21	104		96.364	220	5	2	8.70e	99	359	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+21	1054		96.818	220	5	2	5.17e	101	366	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+21	1274		97.273	220	3	2	3.98e	102	370	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+21	1539		98.104	211	3	1	5.20e	101	366	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+21	2501		96.482	199	4	3	8.24e	89	326	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+21	353	
+22	1271		96.347	219	6	1	8.70e	99	359	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+22	1377		96.804	219	6	1	1.99e	100	364	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+22	2508		98.611	216	3	0	5.06e	106	383	Coryphaena	hippurus	mitochondrion,	partial	genome	gb|KF719178.1|
+23	1010		98.611	216	3	0	5.19e	106	383	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+23	468		81.081	222	39	3	3.48e	43	174	Lethenteron	reissneri	mitochondrion,	complete	genome	gb|KC353466.1|
+23	551		98.592	213	2	1	8.59e	104	375	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+25	1787		97.990	199	2	2	2.18e	94	344	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+25	419		96.985	199	3	1	1.67e	90	331	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+25	490		97.717	219	5	0	3.27e	104	377	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+26	2544		99.476	191	1	0	1.75e	95	348	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+26	776		97.222	216	5	1	1.86e	100	364	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+27	1073		97.706	218	4	1	3.09e	103	374	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+27	163		98.140	215	2	2	3.04e	103	374	Thunnus	alalunga	voucher	TA02-2314	mitochondrion,	complete	genome	gb|JN086151.1|
+27	629		97.642	212	4	1	6.62e	100	363	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+28	1405		98.421	190	3	0	1.35e	91	335	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+292	504		98.537	205	3	0	6.21e	100	363	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+297	148		100.000	199	0	0	1.31e	101	368	Thunnus	alalunga	voucher	TA02-2314	mitochondrion,	complete	genome	gb|JN086151.1|
+299	68		98.174	219	4	0	5.14e	106	383	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+30	627		95.794	214	7	2	2.45e	94	344	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+30	821		97.087	206	5	1	6.22e	95	346	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+33	1023		98.636	220	3	0	3.07e	108	390	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+33	1216		98.010	201	3	1	1.73e	95	348	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+34	165		96.804	219	6	1	1.85e	100	364	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+34	1735		97.717	219	3	2	8.51e	104	375	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+37	1088		96.739	184	4	2	9.39e	83	305	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+37	546		98.000	200	3	1	6.12e	95	346	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+38	1847		99.024	205	1	1	4.78e	101	366	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+38	231	
+38	375	
+39	1509		97.015	201	3	2	1.33e	91	335	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+40	916		100.000	206	0	0	1.72e	105	381	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+411	1750		99.531	213	0	1	3.97e	107	387	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+42	1773		98.551	207	3	0	4.83e	101	366	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+43	1179		100.000	199	0	0	1.31e	101	368	Thunnus	alalunga	voucher	TA02-2314	mitochondrion,	complete	genome	gb|JN086151.1|
+44	1013		99.087	219	1	1	8.49e	109	392	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+44	711		95.909	220	7	2	1.12e	97	355	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+46	614		99.515	206	1	0	8.02e	104	375	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+48	1717		97.727	220	4	1	2.40e	104	377	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+5	1024	
+5	1033		97.000	200	5	1	1.30e	91	335	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+5	1036		96.296	216	4	3	1.47e	96	351	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+5	1071		98.104	211	1	3	1.84e	100	364	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+5	1136		95.045	222	7	3	8.53e	95	346	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+5	1177		95.000	220	8	3	8.67e	94	342	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+5	1370	
+5	1446		97.630	211	3	2	2.43e	99	361	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+5	1500		98.522	203	1	1	3.11e	98	357	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+5	1527		97.073	205	6	0	6.22e	95	346	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+5	1534		97.073	205	4	1	2.29e	94	344	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+5	1745		96.396	222	5	3	6.79e	100	363	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+5	1788		96.380	221	6	2	6.76e	100	363	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+5	1790		94.660	206	3	6	6.59e	85	313	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+5	1861		97.475	198	4	1	4.08e	92	337	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+5	1930		97.209	215	2	3	2.39e	99	361	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+5	1941		98.000	200	2	2	6.46e	95	346	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+5	2055		95.853	217	5	4	1.90e	95	348	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+5	2123		96.396	222	5	2	6.79e	100	363	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+5	2163		98.276	174	2	1	3.55e	82	303	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+5	2183		96.279	215	5	3	5.26e	96	350	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+5	2340		97.409	193	1	4	8.24e	89	326	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+5	2813		99.029	206	0	2	1.36e	101	368	Thunnus	alalunga	voucher	TA02-2314	mitochondrion,	complete	genome	gb|JN086151.1|
+5	294	
+5	314	
+5	338	
+5	3729	
+5	410	
+5	423	
+5	4555		99.517	207	1	0	2.30e	104	377	Eumegistus	illustris	KBF-I	1330	mitochondrial	genes	for	12S	rRNA,	tRNA-Val,	16S	rRNA,	partial	and	complete	sequence	dbj|LC645291.1|
+5	485		97.462	197	2	2	7.07e	91	333	Thunnus	alalunga	voucher	TA02-2314	mitochondrion,	complete	genome	gb|JN086151.1|
+5	524		97.949	195	3	1	3.81e	92	337	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+5	640		97.087	206	1	3	1.18e	93	342	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+5	664		95.928	221	5	3	1.12e	97	355	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+5	680		98.571	210	0	1	1.92e	101	368	Thunnus	alalunga	voucher	TA02-2314	mitochondrion,	complete	genome	gb|JN086151.1|
+5	737		95.946	222	4	3	1.49e	97	355	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+5	760		97.661	171	2	2	7.31e	79	292	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+5	791		95.349	215	7	2	1.48e	92	339	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+5	849		97.906	191	2	1	6.23e	90	329	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+5	882		97.196	214	2	3	8.70e	99	359	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+5	898		96.729	214	5	2	1.42e	97	355	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+5	902		96.262	214	7	1	6.70e	96	350	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+5	991		98.049	205	2	2	1.03e	97	355	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+529	804		98.174	219	3	1	1.84e	105	381	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+53	946		97.727	220	4	1	2.40e	104	377	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+55	827		98.605	215	2	1	6.51e	105	379	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+59	960		96.804	219	5	2	1.84e	100	364	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+6	101	
+6	1180		95.631	206	4	3	7.97e	89	326	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+6	1279		99.457	184	0	1	4.28e	91	333	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+6	1292		95.890	219	5	3	1.75e	96	351	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+6	1461		96.154	208	5	3	3.81e	92	337	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+6	1602		95.045	222	8	3	7.60e	95	346	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+6	1776		99.528	212	1	0	4.15e	107	387	Thunnus	albacares	mitochondrion,	complete	genome	ref|NC_014061.1|
+6	2087		96.262	214	5	3	1.89e	95	348	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+6	219	
+6	2224		98.522	203	1	2	3.13e	98	357	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+6	2605		98.492	199	3	0	1.33e	96	351	Thunnus	alalunga	voucher	TA02-2314	mitochondrion,	complete	genome	gb|JN086151.1|
+6	296	
+6	381	
+6	397	
+6	4224		95.169	207	9	1	8.15e	89	326	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+6	613	
+6	666		99.495	198	0	1	8.13e	99	359	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+6	779		95.694	209	6	3	4.90e	91	333	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+6	798		98.598	214	1	1	2.33e	104	377	Thunnus	alalunga	voucher	TA02-2314	mitochondrion,	complete	genome	gb|JN086151.1|
+6	807		96.970	198	2	3	6.79e	90	329	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+6	948		80.365	219	40	3	7.21e	40	163	Lethenteron	reissneri	mitochondrion,	complete	genome	gb|KC353466.1|
+61	142		96.804	219	6	1	3.20e	100	364	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+62	1870		96.833	221	5	2	1.45e	101	368	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+63	394	
+63	763		100.000	214	0	0	6.53e	110	396	Thunnus	alalunga	voucher	TA02-2314	mitochondrion,	complete	genome	gb|JN086151.1|
+66	1183		99.000	200	1	1	2.83e	98	357	Thunnus	alalunga	voucher	TA02-2314	mitochondrion,	complete	genome	gb|JN086151.1|
+7	1027		96.078	204	5	2	6.34e	90	329	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+7	1043		97.549	204	0	3	2.20e	94	344	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+7	1544		96.396	222	4	3	7.75e	100	363	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+7	1794		97.156	211	4	1	1.14e	97	355	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+7	1872		98.077	208	1	3	8.08e	99	359	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+7	2173		98.985	197	1	1	1.43e	96	351	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+7	2175		100.000	196	0	0	6.69e	100	363	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+7	245		97.906	191	3	1	6.27e	90	329	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+7	331	
+7	347		97.248	218	3	3	7.42e	101	366	Thunnus	alalunga	voucher	TA02-2314	mitochondrion,	complete	genome	gb|JN086151.1|
+7	351	
+7	370	
+7	6		96.759	216	6	1	8.65e	99	359	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+7	632	
+7	634		96.804	219	4	3	8.84e	100	363	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+7	903		98.990	198	1	1	5.18e	97	353	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+7	922	
+7	932	
+73	388	
+74	1173		96.985	199	6	0	1.34e	91	335	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+78	986		100.000	195	0	0	2.10e	99	361	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+8	1102		95.455	220	3	4	2.44e	94	344	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+8	1550		96.262	214	3	4	6.67e	95	346	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+8	1681		96.818	220	5	2	5.17e	101	366	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+8	1920		97.512	201	2	2	2.82e	93	340	Thunnus	alalunga	voucher	TA02-2314	mitochondrion,	complete	genome	gb|JN086151.1|
+8	1924		96.396	222	4	2	6.93e	100	363	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+8	2140		97.561	205	1	4	1.90e	95	348	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+8	23		98.558	208	2	1	5.01e	101	366	Thunnus	alalunga	voucher	TA02-2314	mitochondrion,	complete	genome	gb|JN086151.1|
+8	3884		96.172	209	5	3	1.06e	92	339	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+8	4178		95.455	198	6	3	6.21e	85	313	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+8	588		95.652	207	4	3	2.23e	89	327	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+8	626		97.727	220	3	2	2.39e	104	377	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+8	864	
+82	834		99.061	213	2	0	5.03e	106	383	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+9	1147		99.061	213	1	1	1.84e	105	381	Thunnus	alalunga	voucher	TA02-2314	mitochondrion,	complete	genome	gb|JN086151.1|
+9	1243		98.039	204	2	2	3.72e	97	353	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+9	1347	
+9	139		97.573	206	3	1	1.33e	96	351	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+9	1588		97.285	221	4	1	3.49e	103	374	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+9	1722		96.818	220	5	2	5.17e	101	366	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+9	1743		98.947	190	1	1	1.07e	92	339	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+9	1744		98.010	201	0	4	6.29e	95	346	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+9	1997		98.578	211	3	0	3.08e	103	374	Coryphaena	hippurus	mitochondrion,	partial	genome	gb|KF719178.1|
+9	2104		98.544	206	1	1	6.86e	100	363	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+9	321	
+9	643		88.835	206	22	1	1.40e	66	252	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+9	751		96.651	209	1	5	8.14e	94	342	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+9	974		96.244	213	5	2	6.77e	95	346	Pseudorca	crassidens	voucher	SWFSC:72692	mitochondrion,	complete	genome	gb|JF289173.1|
+	
