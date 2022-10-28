@@ -39,7 +39,7 @@ dat <- read.table("summary_BLAST_Medaka_barcode07_concatenated.txt", sep = "\t",
 # Checks for 0 length integers in the data
 check <- grep("TRUE", is.na(dat$V1))
 
-# Makes new data frame with only the rows we want
+# Makes new data frame with only the columns we want
 
 if(is.integer0(check) == TRUE){
   sdat <- dat[,c(1, 4, 8, 11, 12)]
